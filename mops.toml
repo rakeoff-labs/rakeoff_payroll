@@ -1,0 +1,5 @@
+[dependencies]
+base = "0.10.4"
+array = "https://github.com/aviate-labs/array.mo#master"
+encoding = "https://github.com/aviate-labs/encoding.mo#master"
+map = "9.0.1"
